@@ -1,0 +1,120 @@
+body{
+  text-align:center;
+}
+h1, h2, h3, h4{
+  text-decoration: underline;
+}
+hr{
+  text-align:center;
+}
+.cast{
+  margin-right:600px;
+  font-style:bold;
+}
+body {
+  font-family: 'UnifrakturCook', cursive, bolder;
+  color:#1E4645;
+  font-size:16px;
+  margin: auto;
+  width: 90%;
+  height:100%;
+  border: 10px solid #1E4645;
+  padding: 4em;
+  background-color:#ADFBFA;
+}
+.headtext{font-family: Papyrus; 
+  font-size: 50px;
+  font-weight:bold; 
+  margin-left: auto; 
+  padding:10px; 
+  color: #143963;
+
+}
+.moviename{
+  margin-top:0;
+  margin-bottom:0;
+}
+
+
+a.defaultmovie{
+  font-style:bold;
+  font-size:40px;
+  border-color:black;
+  border-style:dotted;
+  text-align:left;
+  margin-right:1em;
+  margin:0 auto;
+  text-align:center;
+}
+a.defaultactor{
+  font-style:bold;
+  font-size:40px;
+  border-color:black;
+  border-style:dotted;
+  text-align:center;
+  margin-left: 1em;
+}
+.img-with-text{
+  text-align: center;
+  width:125px;
+}
+.img-with-text img {
+  display: block;
+  margin-left: 50%;
+  margin-right: 50%
+
+}
+h1.title{
+  font-size:50px;
+}
+
+.with-child{
+  width:auto;
+  margin-left:5em;
+  margin-right:5em;
+  margin-top:1em;
+  margin-bottom:3em;
+}
+.child{
+  max-height:420px;
+  width:auto;
+  background-color: #31A3A2;
+  color:black;
+  overflow:auto;
+  overflow-x:scroll;
+  overflow-y:visible;
+}
+.backgroundcolor{}
+
+.moveleft{
+  float:left;
+  max-width: 10em;
+  margin-right: 7em;
+}
+
+.caption {
+  display: block;
+}
+.movie{
+  font-style:bolder;
+}
+
+.felfloat{
+  float:left;
+  margin-left:2em;
+  margin-right:4em;
+}
+.alanfloat{
+  float:left;
+  margin-left:1em;
+  margin-right:1em;
+}
+.diegofloat{
+  float:left;
+  margin-left:3em;
+  margin-right:3em;
+}
+
+.homefloat{
+  float:left;
+}
